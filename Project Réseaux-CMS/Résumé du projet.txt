@@ -1,0 +1,11 @@
+Le projet d'administration serveur:
+Il fallait sur une VM en ligne avec Apache 2.
+
+	- Installer Wordpress
+	- Installer Shopify (redirection en ligne)
+	- Installer Prestashop
+
+Projet éffectué en solo.
+
+Je n'ai pas récupérer le contenu de la VM.
+J'ai beaucoup appris avec Apache2.

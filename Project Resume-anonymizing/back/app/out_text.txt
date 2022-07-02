@@ -1,0 +1,155 @@
+Amélie Roynette
+
+Étudiante en cycle bachelor
+A la recherche d’une alternance de développeuse full stack ou front end pour 
+une durée de 1 à 3 ans dès que possible
+
+Formations
+
+GIT HUB : Amelie16 Master of Science 1&2 – Architecte Logiciel, développeur d’application
+
+Actuellement en Bachelor. 
+Piscine intensive de 6 semaines (Code 2 Work).
+École des Technologies Avancées ( ETNA ), Ivry-sur-seine, France
+
+
+
+2021
+
+Permis B, Véhiculé
+
+The Hacking Project
+Formation de 3 semaines en HTML, CSS, Git et Ruby
+Paris, France
+
+Compétences
+
+2019-2021
+
+Licence 2 en Langues, Littérature, Civilisation étrangère et régionale
+Anglaise ( LLCER )  
+Licence 2 validé 
+Université de Picardie Jules Verne, Beauvais, France
+
+WEB :
+
+●
+
+●
+
+●
+
+HTML / CSS
+Javascript – Typescript
+PHP
+
+       Outils & Frameworks:
+
+●
+
+●
+
+●
+
+●
+
+●
+
+●
+
+●
+
+●
+
+●
+
+●
+
+●
+
+●
+
+●
+
+Tailwind CSS
+MySQL
+Laravel  / Symfony
+Docker
+VSCode
+Suite Google / Office
+Figma
+Trello
+Angular
+Node. Js
+
+ Logiciel:
+
+Python
+C
+
+Langues
+
+Anglais: Niveau B1/B2
+
+Espagnol: Niveau A2
+
+Intérêts
+
+Loisirs:
+Culture japonaise,
+Karaté, Equitation, Ski
+
+Voyages:
+Norvège, Belgique, Italie
+
+Associations :
+2018 : Membre du bureau des 
+élèves de l’IFSI de Beauvais
+
+2018-2019
+
+Institut de Formation en soin infirmiers
+IFSI de Beauvais, France
+  
+
+Expériences professionnelles
+
+2019
+5 semaines
+
+Stage Infirmier en psychiatrie
+Centre Hospitalier Henri Teilloux, Compiègne, France
+
+Stage au sein de l’équipe pluridisciplinaire en unité psychiatrique fermée ayant
+pour mission la réalisation de soins d’hygiène, la surveillance des repas, selles,
+paramètres vitaux ainsi que l’écoute active et la réalisation d’activités.
+Réalisation de soins infirmiers sur les patients
+
+2019
+10 semaines
+
+Stage Infirmier en EHPAD unité psy
+
+Hôpital Local de Gournay en Bray, France
+Stage au sein de l’EHPAD psychiatrique de l’hôpital au sein de l’équipe
+soignante ayant pour mission la surveillance des patients, la réalisation des
+soins d’hygiène, la surveillance
+
+Projets
+Lien Github : 
+
+2022
+
+Projet : Recréation d’un site de boutique de Bubble Tea
+Technologies : HTML5, Tailwind CSS , MySQL PHP+Laravel, Figma
+Site web de vente de bubble tea avec système d’authentification des clients avec 
+breeze. Design du site avec Figma. Team Leader du groupe de developpement
+
+Pool de projets ETNA
+Technologies : HTML5, CSS3 , MySQL, Typescript, PHP, bash, Figma
+Certification Développeur PHP/Symfony Skills4All
+Score : 80,84 %
+Lien : 
+view?usp=sharing
+
+

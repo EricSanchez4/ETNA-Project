@@ -1,0 +1,13 @@
+{
+  "name": "hello-etna",
+  "version": "1.0.0",
+  "description": "Simple Hello Etna, what are you expecting reading this?",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"All tests passed. You really had a lot and a lot of tests, because you are a great developer, and all of them passed, w o a w. You are so good.\""
+  },
+  "keywords": ["etna", "master", "devops"],
+  "author": "Poney",
+  "license": "Beerware"
+}

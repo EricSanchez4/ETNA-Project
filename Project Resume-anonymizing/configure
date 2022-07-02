@@ -1,0 +1,7 @@
+REMPLACER DANS LES LIGNES 3 5 7 L'EXEMPLE PAR LE BON CHEMIN DU DOSSIER
+--> path pour le dossier contenant la liste des cv à transformer:
+/home/unix/resume_anonymyzing/liste_cv
+--> path pour le dossier contenant la liste des cv transformés par le logiciel:
+/home/unix/resume_anonymyzing/transformes
+--> path pour le dossier contenant la liste complète des cv renommés par le logiciel :
+/home/unix/resume_anonymyzing/renommes

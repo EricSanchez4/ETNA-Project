@@ -1,0 +1,1 @@
+SELECT moves.identifier AS Attaques FROM moves JOIN pokemon_moves ON(pokemon_moves.move_id=moves.id)JOIN pokemon ON(pokemon_moves.pokemon_id=pokemon.id) WHERE moves.identifier LIKE 'hydro-pump' LIMIT 1;

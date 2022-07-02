@@ -1,0 +1,1 @@
+SELECT DATEDIFF( NOW() ,"2016-11-23") AS nbJours;
